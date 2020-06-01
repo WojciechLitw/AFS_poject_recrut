@@ -1,0 +1,2 @@
+rootProject.name='AFS_project_v2'
+include ':app'
